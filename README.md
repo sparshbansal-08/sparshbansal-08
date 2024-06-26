@@ -1,7 +1,7 @@
 ![logo](https://github.com/sparshbansal-08/sparshbansal-08/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Sparsh Bansal</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1724889600&v=beta&t=b9HrolCDyGuIqdBD64yY8I51CG6ghlj7qL-ZmhiPk2M">
+<img align="right" alt="coding" width="200" src="https://media.licdn.com/dms/image/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/0/1709674937953?e=1724889600&v=beta&t=b9HrolCDyGuIqdBD64yY8I51CG6ghlj7qL-ZmhiPk2M">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sparshbansal-08&label=Profile%20views&color=0e75b6&style=flat" alt="sparshbansal-08" /> </p>
 
