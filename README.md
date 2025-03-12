@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sparshbytes" target="blank"><img src="https://img.shields.io/twitter/follow/sparshbytes?logo=twitter&style=for-the-badge" alt="sparshbytes" /></a> </p>
 
-- 🔭 I’m currently working on [Housing Rental](https://github.com/PrincE0613/CozyCorner)
+- 🔭 I’m currently working on [QuantumTalk](https://github.com/sparshbansal-08/QuantumTalk)
 
 - 🌱 I’m currently learning **MERN**
 
