@@ -47,9 +47,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshbansal-08&show_icons=true&locale=en&layout=compact&theme=radical" alt="sparshbansal-08" />
   <img src="https://github-readme-stats.vercel.app/api?username=sparshbansal-08&show_icons=true&locale=en&theme=radical" alt="sparshbansal-08" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sparshbansal-08&theme=radical" alt="sparshbansal-08" />
+  
 </p>
 
 <h3 align="left">Visitor Count:</h3>
