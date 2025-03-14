@@ -50,7 +50,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshbansal-08&show_icons=true&locale=en&layout=compact&theme=radical" alt="sparshbansal-08" />
   <img src="https://github-readme-stats.vercel.app/api?username=sparshbansal-08&show_icons=true&locale=en&theme=radical" alt="sparshbansal-08" />
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sparshbansal-08)](https://github.com/sparshbansal-08/github-readme-activity-graph)
+  
   
 </p>
 
