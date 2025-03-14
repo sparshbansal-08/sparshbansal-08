@@ -54,6 +54,10 @@
   <a href="https://github.com/sparshbansal-08/github-readme-streak-stats">
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sparshbansal-08&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
+
+<a href="https://github.com/sparshbansal-08/github-readme-activity-graph">
+  <img height=160 align="center" src="https://github-readme-activity-graph.vercel.app/?user=sparshbansal-08&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 </p>
 
 
