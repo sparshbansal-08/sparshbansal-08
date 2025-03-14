@@ -51,7 +51,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparshbansal-08&show_icons=true&locale=en&layout=compact&theme=radical" alt="sparshbansal-08" />
   <img src="https://github-readme-stats.vercel.app/api?username=sparshbansal-08&show_icons=true&locale=en&theme=radical" alt="sparshbansal-08" />
   
-  
+  <a href="https://github.com/sparshbansal-08/github-readme-streak-stats">
+  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=comus3&theme=dark&hide_border=false" alt="GitHub Streak" />
+</a>
 </p>
 
 
