@@ -64,6 +64,8 @@
   <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=sparshbansal-08&theme=dark&hide_border=false" alt="GitHub Streak" />
 </a>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sparshbansal-08&theme=github)
+
 
 </p>
 
