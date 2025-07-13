@@ -3,6 +3,7 @@
     <a href="https://github.com/sparshbansal-08/readme-typing-svg">
         <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Sparsh+Bansal!;Passionate+about+Exploring+Machine+Learning;Coding+Enthusiast+❤;Eager+to+Learn+New+Technologies.&font=Fira+Code&center=true&width=600&height=60&color=8B008B&vleft=true&size=24&pause=1000&repeat=true&background=000000&color=00FF00&vCenter=true&width=700&height=50&duration=4000">
     </a>
+
     
 </p>
 <hr>
