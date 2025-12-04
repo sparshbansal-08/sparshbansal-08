@@ -85,7 +85,7 @@
 
 <p align="left"> <a href="https://twitter.com/sparshbytes" target="blank"><img src="https://img.shields.io/twitter/follow/sparshbytes?logo=twitter&style=for-the-badge&color=1DA1F2" alt="sparshbytes" /></a> </p>
 
-- 🔭 I’m currently working on [QuantumTalk](https://github.com/sparshbansal-08/QuantumTalk)
+- 🔭 I’m currently working on [QuantumTalk](https://github.com/sparshbansal-08/FaceRecognitionProject)
 
 - 🌱 I’m currently learning **MERN**
 
